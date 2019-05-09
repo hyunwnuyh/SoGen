@@ -1,0 +1,3 @@
+#!/bin/bash
+
+perl ./sgc.pl -o sample.h sample.c
