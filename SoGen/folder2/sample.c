@@ -10,7 +10,7 @@
 int a;
 
 /******************************************************************************
-* Function:         void sample
+* Function:         void samplefunc
 * Description:      <DESC>
 * Where:
 *                   int a - 
@@ -18,7 +18,6 @@ int a;
 * Return:           <RET>
 * Error:            <ERR>
 *****************************************************************************/
-void sample(int a, int b, int c)
-{
+void samplefunc(int a, int b, int c) {
 }
 

@@ -1,24 +1,21 @@
+<HEADER>
 /******************************************************************************
-* File:             sample.c
+* File:             <FILE>
 *
-* Author:           Hyunwoo Oh 
-* Created:          05/10/2019 
+* Author:           <AUTH> 
+* Created:          <DATE> 
 * Description:      <DESC>
 *****************************************************************************/
-#include "sample.h"
+</HEADER>
 
-int a;
-
+<FUNCTION>
 /******************************************************************************
-* Function:         void sample
+* Function:         <FUNC>
 * Description:      <DESC>
 * Where:
-*                   int a - 
-*                   int b - 
+*                   <ARGV>
 * Return:           <RET>
 * Error:            <ERR>
 *****************************************************************************/
-void sample(int a, int b, int c)
-{
-}
+</FUNCTION>
 
