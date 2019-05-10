@@ -8,7 +8,8 @@ our @EXPORT_OK = qw(printerror);
 our @errors = (
     "Error 0: not enough arguments",
     "Error 1: invalid arguments",
-    "Error 2: No such file or directory in arguments #"
+    "Error 2: No such file or directory",
+    "Error 3: File/Directory already exists"
 );
 
 sub printerror

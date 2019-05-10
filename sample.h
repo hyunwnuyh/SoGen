@@ -25,7 +25,7 @@ typedef struct str2 {
     uint32_t *c;
 } structure;
 extern int a; // sample integer
-void sample(int a, int b, int c); /* sample function */
+void samplefunc(int a, int b, int c); /* sample function */
 
 
 #endif
